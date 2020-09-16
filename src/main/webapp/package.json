@@ -1,0 +1,17 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cronapi-js": "git+https://github.com/technecloud/cronapi-js.git#74aa60ffeb0141fef88200b21b7b0deb55d84c2c",
+    "cronapp-common-js": "git+https://github.com/CronApp/cronapp-common-js.git#f638e5dbe53b8ff209fb1afc268cf8b354812d73",
+    "cronapp-lib-js": "git+https://github.com/CronApp/cronapp-lib-js.git#31ebd555b00beb0c91d321ab508b94092fdd8cff"
+  }
+}
